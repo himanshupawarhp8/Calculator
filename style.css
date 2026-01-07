@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #181717;
+    /* background-image: url(/b008d1c0a045f3a6e9b95f6452d839a7.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; */
+}
+#text{
+    text-align: center;
+    color: white;
+}
+.contaner{
+    align-items: center;
+    margin-left: 600px;
+    margin-right: 656px;
+    margin-top: 186px;
+    gap: 10px;
+    border: 1px solid white;
+   
+   
+}
+button{
+height: 50px;
+width: 50px;
+border-radius: 30%;
+border: 1px solid rgb(193, 189, 189);
+background-color: grey;
+color: aliceblue;
+font-size: large;
+}
+#display{
+    width: 212px;
+    height: 100px;
+    border-style: none;
+    color: white;
+    font-size: xx-large;
+    /* background-color: rgb(161, 170, 177); */
+}
+#button1{
+    margin-top: 5px;
+    
+}
+#button2{
+    margin-top: 5px;
+}
+#button3{
+    margin-top: 5px;
+}
+#button4{
+    margin-top: 5px;
+}
+#button5{
+    margin-top: 5px;
+}
+#btn1{
+  
+}
+#btn2{
+    
+}
+#btn3{
+   
+}
+#btn4{
+    background-color: rgb(237, 155, 31);
+}
+#btn5{
+    background-color: rgb(52, 51, 51);
+}
+#btn6{
+    background-color: rgb(52, 51, 51);
+}
+#btn7{
+    background-color: rgb(52, 51, 51);
+}
+#btn8{
+    background-color: rgb(237, 155, 31);
+}
+#btn9{
+    background-color: rgb(52, 51, 51);
+}
+#btn10{
+    background-color: rgb(52, 51, 51);
+}
+#btn11{
+    background-color: rgb(52, 51, 51);
+}
+#btn12{
+    background-color: rgb(237, 155, 31);
+}
+#btn13{
+    background-color: rgb(52, 51, 51);
+}
+#btn14{
+    background-color: rgb(52, 51, 51);
+}
+#btn15{
+    background-color: rgb(52, 51, 51);
+}
+#btn16{
+    background-color: rgb(237, 155, 31);
+}
+#btn17{
+    background-color: rgb(52, 51, 51);
+}
+#btn18{
+    background-color: rgb(52, 51, 51);
+}
+#btn19{
+    background-color: rgb(52, 51, 51);
+}
+#btn20{
+    background-color: rgb(237, 155, 31);
+}
